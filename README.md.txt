@@ -55,3 +55,21 @@ Criar um caderno temático utilizando NotebookLM para organizar estudos em redes
 - Roadmap de estudos
 - Laboratório virtual
 - Aprendizado contínuo
+
+## Aprendizados
+
+Durante o desenvolvimento deste caderno temático, foi possível compreender conceitos relacionados a redes Cisco, Linux, Kali Linux e fundamentos de cibersegurança.
+
+### Conceitos aprendidos
+
+- Estrutura básica de redes
+- Ferramentas de segurança presentes no Kali Linux
+- Diferenças entre Kali Linux e Debian
+- Primeiros passos para iniciar na área de cibersegurança
+- Importância de laboratórios virtuais
+
+---
+
+## Evidências
+
+As imagens e registros do NotebookLM serão adicionados na pasta assets.
