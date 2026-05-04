@@ -1,7 +1,7 @@
 # Projeto NotebookLM — Estudos em Cibersegurança
 
 ## Objetivo
-Criar um caderno temático utilizando NotebookLM para organizar estudos em redes, Linux, Kali Linux e Ethical Hacking.
+Criar NotebookLM para organizar estudos em redes, Linux, Kali Linux e Ethical Hacking.
 
 ---
 
